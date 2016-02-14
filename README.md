@@ -1,5 +1,5 @@
 # Sample-Code
-*Contributors: Hannah Weissman
+*Contributors: Hannah Weissman*
 
 This a Java program which simulates the functions of an ATM or banking website
 
