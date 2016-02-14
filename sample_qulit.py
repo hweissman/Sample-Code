@@ -1,6 +1,6 @@
 #Hannah Weissman
 #CS111 PSet Task 2
-#February 11 2016
+#February 1 2016
 #sample_quilt.py
 
 from picture import *
