@@ -1,0 +1,20 @@
+import java.io.*;
+import static java.lang.System.*;
+import java.lang.Math.*;
+import java.util.Scanner;
+
+class BankAccount{
+
+public static void main (String str[]) throws IOException {
+
+         
+              Scanner scan = new Scanner(System.in);
+              
+         /*     public static int generateID(){
+                int ID = (Math.random()*899999)+100000;
+                return ID;
+              }
+              
+              System.out.println(generateID); */
+}
+}
